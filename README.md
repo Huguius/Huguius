@@ -24,6 +24,6 @@
   
  
   
- ![Snake animation](https://github.com/Huguius/Huguiusblob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Huguius/Huguius/blob/output/github-contribution-grid-snake.svg)
  
 </div>
