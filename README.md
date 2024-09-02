@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev(iniciante) Hugo 😁
+## Bem-vindo(a) ao perfil do Desenvolverdor Hugo 😁
 
  <div>
    <a href="https://github.com/Huguius">
