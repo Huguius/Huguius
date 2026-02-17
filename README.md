@@ -1,6 +1,6 @@
 <h1 align="left">Me chamo Hugo R.</h1>
 
-<h2 align="left">Coneço as seguintes tecnoloGgias:</h2>
+<h3 align="center">Conheço as seguintes tecnologias:</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
