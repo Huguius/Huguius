@@ -35,8 +35,7 @@
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=huguius&theme=dracula" height="150" alt="Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=huguius&theme=dracula" height="150" alt="Trophy Graph" />
+  <img src="https://streak-stats.demolab.com?user=huguius&theme=dracula" height="150"  />
 </div>
 
 <br />
