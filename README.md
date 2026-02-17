@@ -38,3 +38,7 @@
   <img src="https://streak-stats.demolab.com?user=huguius&theme=dracula" height="150"  />
   <img src="https://github-profile-trophy.vercel.app/?username=huguius&theme=dracula" height="150"  />
 </div>
+
+<img src="https://raw.githubusercontent.com/Huguius/Huguius/output/snake.svg" alt="Snake animation" />
+
+###
