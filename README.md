@@ -1,4 +1,4 @@
-<h1 align="left">Me chamo Hugo R.</h1>
+<h1 align="left">Me chamo Hugo R. e estou cursando TADS no Senac</h1>
 
 <h3 align="center">Conheço as seguintes tecnologias:</h3>
 
